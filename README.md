@@ -1,6 +1,6 @@
 # Proyecto Laravel
 
-Este proyecto es una aplicación web desarrollada en Laravel. Proporciona una descripción breve de tu proyecto y su propósito aquí.
+CRUD Laravel
 
 ## Requisitos previos
 
