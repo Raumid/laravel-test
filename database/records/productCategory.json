@@ -1,0 +1,14 @@
+[
+    {
+        "product_category_id": 1,
+        "product_category_name": "Infantil"
+    },
+    {
+        "product_category_id": 2,
+        "product_category_name": "Niños"
+    },
+    {
+        "product_category_id": 3,
+        "product_category_name": "Preadolescente"
+    }
+]

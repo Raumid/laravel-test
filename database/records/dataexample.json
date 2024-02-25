@@ -1,0 +1,46 @@
+[
+  {
+    "transaction_id": 1,
+    "transaction_product_id": 9,
+    "transaction_employe_id": 156,
+    "transaction_customer_id": 3,
+    "transaction_type_movement_id": 1,
+    "transaction_amount": 88,
+    "transaction_price": 50,
+    "transaction_date": "2019-08-06",
+    "transaction_delete": 0
+  },
+  {
+    "transaction_id": 2,
+    "transaction_product_id": 3,
+    "transaction_employe_id": 160,
+    "transaction_customer_id": 2,
+    "transaction_type_movement_id": 2,
+    "transaction_amount": 4,
+    "transaction_price": 74,
+    "transaction_date": "2019-08-07",
+    "transaction_delete": 0
+  },
+  {
+    "transaction_id": 3,
+    "transaction_product_id": 4,
+    "transaction_employe_id": 140,
+    "transaction_customer_id": 2,
+    "transaction_type_movement_id": 2,
+    "transaction_amount": 105,
+    "transaction_price": 28,
+    "transaction_date": "2019-08-08",
+    "transaction_delete": 0
+  },
+  {
+    "transaction_id": 4,
+    "transaction_product_id": 7,
+    "transaction_employe_id": 140,
+    "transaction_customer_id": 2,
+    "transaction_type_movement_id": 1,
+    "transaction_amount": 91,
+    "transaction_price": 135,
+    "transaction_date": "2019-09-01",
+    "transaction_delete": 0
+  }
+]

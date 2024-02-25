@@ -1,0 +1,10 @@
+[
+    {
+        "type_movement_id": 1,
+        "type_movement_name": "mov 0"
+    },
+    {
+        "type_movement_id": 2,
+        "type_movement_name": "mov 1"
+    }
+]

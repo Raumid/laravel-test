@@ -1,0 +1,18 @@
+[
+    {
+        "customer_id": 1,
+        "customer_name": "BODEGA"
+    },
+    {
+        "customer_id": 2,
+        "customer_name": "HEB"
+    },
+    {
+        "customer_id": 3,
+        "customer_name": "SORIANA"
+    },
+    {
+        "customer_id": 4,
+        "customer_name": "WALLMART"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "product_category_id": 3,
+        "product_name": "Balón"
+    },
+    {
+        "product_category_id": 2,
+        "product_name": "Bicicleta"
+    },
+    {
+        "product_category_id": 1,
+        "product_name": "Carrito"
+    },
+    {
+        "product_category_id": 2,
+        "product_name": "Juego de mesa"
+    },
+    {
+        "product_category_id": 2,
+        "product_name": "Legos"
+    },
+    {
+        "product_category_id": 1,
+        "product_name": "Muñeca"
+    },
+    {
+        "product_category_id": 3,
+        "product_name": "Patineta"
+    },
+    {
+        "product_category_id": 1,
+        "product_name": "Pelota"
+    },
+    {
+        "product_category_id": 3,
+        "product_name": "Videojuegos"
+    }
+]
